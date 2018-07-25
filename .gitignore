@@ -17,3 +17,7 @@ tags
 project/.boot/
 project/.ivy/
 
+metastore_db/
+modelmatrix-core/derby.log
+
+
